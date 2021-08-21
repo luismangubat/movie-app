@@ -119,3 +119,23 @@
     flex-direction: column;
   }
 }
+
+.movieContainer {
+  display: flex;
+  justify-content: space-around;
+  overflow: hidden;
+  padding-top: 30px;
+  background-color: #eaeaea;
+  border-color: #0070f3;
+}
+
+.movieTitle {
+  height: 50px;
+}
+
+.nominate {
+  height: 20px;
+}
+.moviePoster {
+  width: 100px;
+}
